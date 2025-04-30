@@ -1,0 +1,1 @@
+O ponteiro é uma variável que armazena o endereço de memória de outra variável. Em outras palavras, ele "aponta" para a localização onde outra variável está armazenada na memória do computador.

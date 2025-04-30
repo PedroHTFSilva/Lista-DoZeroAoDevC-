@@ -1,0 +1,42 @@
+Lista de Exercício - Linguagem C - Variaveis e Tipos
+
+
+
+1 - Crie um software que receba 2 numeros inteiros e realize a subtração entre eles OK
+
+
+
+2 - Crie um software que receba 4 numeros representando as notas de um aluno, calcule a media e exiba a média na tela OK
+
+
+
+3 - Crie um software que receba uma temperatura em Celsius e converta para Fahrenheit - Formula = (ValorEmF - 32) x 5/9 OK
+
+
+
+4 - Crie um software que receba 5 numeros, calcule a multiplicação entre eles e exiba na tela
+
+
+
+5 - Crie um software que receba a idade, genero, peso, altura e exiba essas informações na tela OK
+
+
+
+6 - O que é uma variavel?
+
+ Uma variavel é uma alocação na memoria, aonde podemos t
+
+7 - Qual a função do printf?
+
+Função utilizada para saida de texto na tela.
+
+8 - Qual a função do scanf?
+
+Função utilizada para ler informações de entrada do usuario.
+
+9 - Como exibir um "pular linha" no printf?
+
+\n
+
+10 - Qual o propósito do include?
+É utilizado para incluir bibliotecas dentro do software, possibilitando a utilização das funções que a mesma possui.

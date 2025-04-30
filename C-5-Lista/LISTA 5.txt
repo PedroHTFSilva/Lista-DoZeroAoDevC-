@@ -1,0 +1,21 @@
+Lista de Exercícios - Linguagem C - Recursividade
+
+
+
+1 - Crie um software que calcule a Sequencia de Fibonacci para um numero N (N será inserido pelo usuário).
+
+
+
+2 - Crie um software que receba 2 números inteiros, multiplique eles e adicione 1 ao numero resultante até a soma ser 100. Se antes da adição, o valor da multiplicação for maior ou igual a 100, exibir na tela o valor e encerrar o programa.
+
+
+
+3 - Crie um software para calcular a somatória de todos os número de 1 a N (N será lido do teclado).
+
+
+
+4 - Crie um software que conte os dígitos de um determinado número
+
+
+
+Exemplo: se o usuário inserir o número 250, a saída esperada deve ser: "o número digitado tem 3 dígitos."

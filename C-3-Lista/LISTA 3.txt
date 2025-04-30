@@ -1,0 +1,61 @@
+Lista de Exercício - Linguagem C - For While e Do While
+
+
+
+FAZER OS MESMOS SOFTWARES COM AS 3 ABORDAGENS
+
+
+
+1 - Crie um software que receba 4 notas utilizando vetor, calcule e exiba a media
+
+
+
+2 - Crie um software que receba o seu nome, armazene em um vetor e depois exiba na tela (1 caractere por linha)
+
+
+
+3 - Crie um software que receba o nome de um aluno (máximo 10 letras), suas 4 notas, e exiba se ele foi aprovado ou não (media < 5 reprovado, media > 5 aprovado) juntamente com seu nome
+
+
+
+4 - Crie um software que dado um vetor de inteiros (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), exiba o maior valor
+
+
+
+5 - Crie um software que dado um vetor de inteiros (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), exiba o menor valor
+
+
+
+6 - Crie um software que dado um vetor de inteiros (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), exiba os números em ordem crescente
+
+
+
+7 - Crie um software que dado um vetor de inteiros (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), exiba os números em ordem decrescente
+
+
+
+8 - Crie um software que dado um vetor de float (digitado pelo usuário) exiba os números em ordem crescente e decrescente
+
+
+
+9 - Crie um software que dado um vetor de int (digitado pelo usuário) exiba somente os números pares
+
+
+
+10 - Crie um software que dado um vetor de int (digitado pelo usuário) exiba somente os números impares
+
+
+
+11 - Crie um software que recebe:
+
+- Nome do usuário
+
+- idade
+
+- data de nascimento
+
+- 4 notas
+
+
+
+Calcule sua media e exiba na tela a media calculada, se foi aprovado ou não (utilizar logica previamente mencionada) e suas informações de cadastro

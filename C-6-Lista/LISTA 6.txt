@@ -1,0 +1,21 @@
+Lista de Exercícios - Linguagem C - Ponteiro
+
+
+
+1 - Qual o propósito do ponteiro?
+
+
+
+2 - Crie um software que receba:
+
+	Idade
+
+	Altura
+
+	Peso
+
+de uma pessoa com 10 anos de idade, crie ponteiros que apontam para essas variáveis e depois modifique para que o usuário fique com 30 anos, mais alto e com peso diferente, e exiba o ponteiro com o valor modificado
+
+
+
+3 - Crie um software que receba um numero do usuário (float), crie um ponteiro que aponta para essa variável, modifique o valor inserido pelo usuário, e exiba o ponteiro mostrando o valor modificado

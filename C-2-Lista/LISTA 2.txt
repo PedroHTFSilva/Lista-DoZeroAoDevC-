@@ -1,0 +1,47 @@
+Lista de Exercício - Linguagem C - If Else Switch
+
+
+
+1 - Crie um software que receba 4 números e exiba o maior OK
+
+
+
+2 - Crie um software que receba 5 números e exiba o menor numero OK
+
+
+
+3 - Crie um software que receba 1 numero e diga se ele é par ou impar (Utilizar a verificação mod (%)) OK
+
+
+
+4 - Crie um software que receba 1 caractere do usuário (A ou B). Se o usuário escolher A, exiba na tela "Você escolheu a opção A". Se o usuário escolher B, exiba na tela "Você escolheu a opção B" OK
+
+
+
+5 - Crie um software que receba 4 notas de um aluno, calcule a media e exiba seguindo a seguinte regra: OK
+
+Nota < 5: Reprovado
+
+Nota > 5 e < 6: Aprovado pelo conselho
+
+Nota > 6 e <= 9: Aprovado
+
+Nota > 9: Aprovado com Louvor
+
+
+
+6 - Qual o propósito do IF?
+
+IF é utilizado para realizar uma condição, na qual se for verdadeira será realizada.
+
+
+7 - Qual o propósito do Else?
+Else é utilizado como uma condição, na qual se passar pela verificação do if e não 
+
+
+8 - Quando se é recomendado utilizar switch?
+
+A estrutura switch é utilizada quando precisamos tomar uma decisão com base em um valor especifico.
+
+9 - Quando se deve utilizar "else if" ?
+Utilizamos quando temos multiplas condições excluisivas.

@@ -1,0 +1,39 @@
+Lista de Exercícios - Linguagem C - Funções
+
+
+
+1 - Crie um software que receba:
+
+  - Nome
+
+  - Idade
+
+  - Data de Nascimento (usar vetor de char)
+
+  - 4 Notas (float)
+
+
+
+  Calcule a média ( media < 5 = reprovado, media > 5 = aprovado) e exiba na tela os dados do aluno e a sua media final com a mensagem "Aprovado" ou "Reprovado"
+
+
+
+2 - Crie um software que receba 10 números, guarde os números em um vetor e exiba:
+
+  - Menor numero
+
+  - Maior numero
+
+  - A media
+
+
+
+3 - Crie um software que receba 10 números e exiba eles em ordem crescente e decrescente
+
+
+
+4 - Crie um software que receba um nome e exiba o numero 1 entre as letras do nome. Exemplo: Nome: Marcelo => M1a1r1c1e1l1o
+
+
+
+5 - Crie um software igual ao Exercício 1, porém que receba os dados de 5 alunos, e exiba os dados e as medias ao final (um de cada vez).
